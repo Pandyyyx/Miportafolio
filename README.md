@@ -1,2 +1,2 @@
-# Miportafolio
-mi portafolio
+# MiPortafolio
+Proyecto de Mi Protafolio
