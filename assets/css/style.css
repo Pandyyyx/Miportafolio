@@ -14,14 +14,14 @@ body {
     position:fixed;
 }
 .navbar {
-    background-color: #000000;
+    background-color: #0f0206;
 }
 
 .nav-link {
-    color: #e61212 !important;
+    color: #ebc9e3 !important;
 }
 .nav-link:hover {
-    color: #17c445 !important; /* Links en rojo claro al pasar el cursor */
+    color: #852e59 !important; /* Links en rojo claro al pasar el cursor */
 }
 
 .jumbotron {
@@ -35,7 +35,7 @@ body {
 
 
 h1, h2 {
-    color: #007bff;
+    color: #3d0319;
 }
 
 .card {
